@@ -6,6 +6,7 @@ public class TestDemo1 {
 		System.out.println("黄毛");
 		System.out.println("黄毛2");
 		System.out.println("黄毛3");
+		System.out.println("黄毛4");
 		System.err.println("hello0000000");
 
 	}
